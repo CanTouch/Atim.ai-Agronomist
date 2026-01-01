@@ -1,0 +1,7 @@
+{
+  "name": "Atim.ai Agronomist",
+  "description": "Atim.ai is a practical AI Agronomist Assistant for Northern Ugandan farmers, supporting Acoli and English via voice and text, designed for feature phone accessibility.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
